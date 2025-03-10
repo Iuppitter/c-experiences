@@ -19,13 +19,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		1E44A42A2D26677A0007B7EE /* ana tecrube */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ana tecrube"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1E44A42A2D26677A0007B7EE /* main experience */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "main experience"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1E44A42C2D26677A0007B7EE /* ana tecrube */ = {
+		1E44A42C2D26677A0007B7EE /* main experience */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "ana tecrube";
+			path = "main experience";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -44,7 +44,7 @@
 		1E44A4212D26677A0007B7EE = {
 			isa = PBXGroup;
 			children = (
-				1E44A42C2D26677A0007B7EE /* ana tecrube */,
+				1E44A42C2D26677A0007B7EE /* main experience */,
 				1E44A42B2D26677A0007B7EE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,7 +52,7 @@
 		1E44A42B2D26677A0007B7EE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1E44A42A2D26677A0007B7EE /* ana tecrube */,
+				1E44A42A2D26677A0007B7EE /* main experience */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,9 +60,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1E44A4292D26677A0007B7EE /* ana tecrube */ = {
+		1E44A4292D26677A0007B7EE /* main experience */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1E44A4312D26677A0007B7EE /* Build configuration list for PBXNativeTarget "ana tecrube" */;
+			buildConfigurationList = 1E44A4312D26677A0007B7EE /* Build configuration list for PBXNativeTarget "main experience" */;
 			buildPhases = (
 				1E44A4262D26677A0007B7EE /* Sources */,
 				1E44A4272D26677A0007B7EE /* Frameworks */,
@@ -73,13 +73,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1E44A42C2D26677A0007B7EE /* ana tecrube */,
+				1E44A42C2D26677A0007B7EE /* main experience */,
 			);
-			name = "ana tecrube";
+			name = "main experience";
 			packageProductDependencies = (
 			);
 			productName = "ana tecrube";
-			productReference = 1E44A42A2D26677A0007B7EE /* ana tecrube */;
+			productReference = 1E44A42A2D26677A0007B7EE /* main experience */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1E44A4252D26677A0007B7EE /* Build configuration list for PBXProject "ana tecrube" */;
+			buildConfigurationList = 1E44A4252D26677A0007B7EE /* Build configuration list for PBXProject "main experience" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1E44A4292D26677A0007B7EE /* ana tecrube */,
+				1E44A4292D26677A0007B7EE /* main experience */,
 			);
 		};
 /* End PBXProject section */
@@ -260,7 +260,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1E44A4252D26677A0007B7EE /* Build configuration list for PBXProject "ana tecrube" */ = {
+		1E44A4252D26677A0007B7EE /* Build configuration list for PBXProject "main experience" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1E44A42F2D26677A0007B7EE /* Debug */,
@@ -269,7 +269,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1E44A4312D26677A0007B7EE /* Build configuration list for PBXNativeTarget "ana tecrube" */ = {
+		1E44A4312D26677A0007B7EE /* Build configuration list for PBXNativeTarget "main experience" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1E44A4322D26677A0007B7EE /* Debug */,
